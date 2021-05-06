@@ -1,0 +1,19 @@
+#hello {
+    background-color: yellow;
+}
+
+#goodbye {
+    background-color: orange;
+}
+
+.square {
+    height: 100px;
+    width: 100px;
+}
+
+.hide {
+    display: none;
+}
+
+
+
